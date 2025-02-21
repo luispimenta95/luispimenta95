@@ -4,7 +4,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luispimenta95&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
-    <p align="center">
+  <p align="center">
   <a href="https://github.com/luispimenta95/">
     <img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&pause=1000&color=0047AB&center=true&vCenter=true&width=435&lines=Full+Stack+Web+Developer;Focus+on+PHP%2F+backend" />
   </a>
